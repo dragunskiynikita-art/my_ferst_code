@@ -1,0 +1,25 @@
+body {
+  background-color: #f0f0f0; /* Цвет фона всей страницы (светло-серый) */
+  font-family: sans-serif;    /* Делаем шрифт более современным, без "засечек" */
+}
+
+h1 {
+  color: green;               /* Темно-зеленый цвет заголовка */
+  text-align: center;        /* Ставим заголовок ровно по центру страницы */
+}
+
+p {
+  color: lightblue;               /* светло-голубой цвет текста */
+  font-size: 20px;           /* Чуть увеличиваем текст */
+}
+ul {color: rebeccapurple;}
+a{color: lawngreen;}
+h2{color: lightcoral;}
+.importat-text {
+    color: red;
+    font-weight: bold;
+}
+.secret {
+color:rgba(red, green, blue, alpha);
+font-style: italic;
+}
