@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "---------VS-Code",
+			"path": "../---------VS-Code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my_first_code"
+	}
+}
