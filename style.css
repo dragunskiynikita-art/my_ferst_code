@@ -1,25 +1,36 @@
 body {
-  background-color: #f0f0f0; /* Цвет фона всей страницы (светло-серый) */
-  font-family: sans-serif;    /* Делаем шрифт более современным, без "засечек" */
+  background-color: #f0f0f0; /* Светло-серый фон */
+  font-family: sans-serif;    /* Современный шрифт */
 }
 
 h1 {
-  color: green;               /* Темно-зеленый цвет заголовка */
-  text-align: center;        /* Ставим заголовок ровно по центру страницы */
+  color: green;               
+  text-align: center;        /* Центрируем заголовок */
 }
 
 p {
-  color: lightblue;               /* светло-голубой цвет текста */
-  font-size: 20px;           /* Чуть увеличиваем текст */
+  color: #555;                /* Заменил lightblue на темно-серый для читаемости, но можешь вернуть! */
+  font-size: 20px;           
 }
-ul {color: rebeccapurple;}
-a{color: lawngreen;}
-h2{color: lightcoral;}
+
+ul {
+  color: rebeccapurple;
+}
+
+a {
+  color: lawngreen;
+}
+
+h2 {
+  color: lightcoral;
+}
+
 .importat-text {
     color: red;
-    font-weight: bold;
+    font-weight: bold;       /* Делаем текст жирным */
 }
+
 .secret {
-color:rgba(red, green, blue, alpha);
-font-style: italic;
+  color: rgba(100, 0, 150, 0.7); /* Фиолетовый цвет с прозрачностью 70% */
+  font-style: italic;            /* Курсив */
 }
